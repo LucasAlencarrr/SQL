@@ -1,0 +1,1 @@
+SELECT DISTINCT cliente from tabelapedidos;
